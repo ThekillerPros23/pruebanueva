@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+procesar_login.py
+pyvenv.cfg
+lib
+/index.html
+bin
+.vscode
