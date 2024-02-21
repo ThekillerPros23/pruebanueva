@@ -2,6 +2,7 @@
 procesar_login.py
 pyvenv.cfg
 lib
-/index.html
+build
+
 bin
 .vscode
